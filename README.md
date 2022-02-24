@@ -2,7 +2,6 @@
 
 The HelloWorld React-rails is a simple React-rails application that renders a simple welcome message.
 
-![My project](https://user-images.githubusercontent.com/69011963/149576485-78e328ae-eb90-4010-93cb-993eaff641bb.png)
 
 ## Built With
 
